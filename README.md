@@ -1,8 +1,8 @@
 # The One-Line AI Excuse for Breaking Production
 
 ![make.fun bounty](https://make.fun/badge/u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66.svg)
-![rank](https://make.fun/badge/yudhisutawan77/makefun-excuse-breaking/rank.svg)
-![reward](https://make.fun/badge/yudhisutawan77/makefun-excuse-breaking/reward.svg)
+![rank](https://make.fun/badge/u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66/yudhisutawan77/makefun-excuse-breaking/rank.svg)
+![reward](https://make.fun/badge/u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66/yudhisutawan77/makefun-excuse-breaking/reward.svg)
 
 [The One-Line AI Excuse for Breaking Production — bounty on make.fun](https://make.fun/bounty/u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66)
 
